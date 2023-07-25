@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/silentsupt?logo=github&style=for-th
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
-<a href="https://html.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="36" height="36" alt="Html" /></a>
+<a href="https://html.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-vonbu&psig=AOvVaw29H6n5JLGaNtsQ-xdeKa7w&ust=1690369065687000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjLrs_ZqYADFQAAAAAdAAAAABAE" width="36" height="36" alt="Html" /></a>
 </p>
 
 
