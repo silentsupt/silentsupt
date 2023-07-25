@@ -1,6 +1,6 @@
 Hi My name is Supakorn Roangroad![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==========================================================================================================================================
-### <img src="https://cliply.co/wp-content/uploads/2019/12/391912870_CHRISTMAS_TREE_400px.gif"> About Me :
+### <img src="https://cliply.co/wp-content/uploads/2019/12/391912870_CHRISTMAS_TREE_400px.gif" width="30"> About Me :
 I'm Studying at Rangsit university <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
 
 - :telescope: I’m Studying about a Computer Engineering and contributing to frontend and backend for building web applications.
