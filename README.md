@@ -9,7 +9,7 @@ I'm Studying at Rangsit university <img src="https://media.giphy.com/media/WUlpl
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-* ✉️  If You can contact me at [Here](linkbio.co/5062013K7nPo1)
+* ✉️  If You can contact me at [Here](https://linkbio.co/5062013K7nPo1)
 ------------------------------------------------------
 
 <a href="https://www.github.com/silentsupt" target="_blank" rel="noreferrer"><img
