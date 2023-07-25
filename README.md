@@ -5,7 +5,7 @@ I'm Studying at Rangsit university <img src="https://media.giphy.com/media/WUlpl
 
 - :telescope: I’m Studying about a Computer Engineering and contributing to frontend and backend for building web applications.
 
-- <img src="https://media.giphy.com/media/AWNxDbtHGIJDW/giphy.gif" width="30" hight="30"> Exploring Technical Content Writing.
+- <img src="https://media.giphy.com/media/AWNxDbtHGIJDW/giphy.gif" width="30" height="30"> Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
