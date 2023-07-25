@@ -3,13 +3,13 @@ Hi My name is Supakorn Roangroad![](https://user-images.githubusercontent.com/18
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9zNml4NDhoMGhxNDc1cmJpeTdhdWFxZnlyZHZzd2IzaWh0NWowbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oEQINnYPSTBfJkxPI/giphy.gif" width="30"> : About Me : <img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" width="30">
 I'm Studying at Rangsit university <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
 
-- <img src="https://media.giphy.com/media/UTjmeapJahb8asynPo/giphy.gif" width="35"> I’m Studying about a Computer Engineering and contributing to frontend and backend for building web applications.
+- <img src="https://media.giphy.com/media/UTjmeapJahb8asynPo/giphy.gif" width="40"> I’m Studying about a Computer Engineering and contributing to frontend and backend for building web applications.
 
 -  Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-* <img src="https://thumbs.gfycat.com/AnxiousSociableGazelle-max-1mb.gif" width="35">  If You have any Question [Here!](https://linkbio.co/5062013K7nPo1) my contact.
+* <img src="https://thumbs.gfycat.com/AnxiousSociableGazelle-max-1mb.gif" width="34">  If You have any Question [Here!](https://linkbio.co/5062013K7nPo1) my contact.
 ------------------------------------------------------
 
 <a href="https://www.github.com/silentsupt" target="_blank" rel="noreferrer"><img
