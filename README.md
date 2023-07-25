@@ -2,12 +2,14 @@ Hi My name is Supakorn Roangroad![](https://user-images.githubusercontent.com/18
 ==========================================================================================================================================
 ### :woman_technologist: About Me :
 I'm Studying at Rangsit university <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
+
 - :telescope: I’m Studying about a Computer Engineering and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
+* ✉️  If You can contact me at [Here](linkbio.co/5062013K7nPo1)
 ------------------------------------------------------
 
 <a href="https://www.github.com/silentsupt" target="_blank" rel="noreferrer"><img
