@@ -40,8 +40,8 @@ src="https://img.shields.io/github/followers/silentsupt?logo=github&style=for-th
 <p align="left"> 
   <a href="https://discord.com/users/silentsupt" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" width="35" height="35" /></a> 
   <a href="http://www.instagram.com/silentsupt" target="_blank" rel="noreferrer"><img src="https://freelogopng.com/images/all_img/1658586619instagram-logo-png.png" width="35" height="35" /></a> 
-  <a href="https://www.youtube.com/c/silentsupt" target="_blank" rel="noreferrer"><img src="https://freelogopng.com/images/all_img/1656501465youtube-png.png" width="35" height="35" /></a>
-  <a href="https://www.tiktok.com/@silentsupt" target="_blank" rel="noreferrer"><img src="https://img.freepik.com/premium-vector/tik-tok-logo_578229-290.jpg?w=826" width="32" height="32" /></a>
+  <a href="https://www.youtube.com/c/silentsupt" target="_blank" rel="noreferrer"><img src="https://freelogopng.com/images/all_img/1656501465youtube-png.png" width="35" height="37" /></a>
+  <a href="https://www.tiktok.com/@silentsupt" target="_blank" rel="noreferrer"><img src="https://img.freepik.com/premium-vector/tik-tok-logo_578229-290.jpg?w=826" width="35" height="35" /></a>
 </p>
 
 ### <img src="https://media.giphy.com/media/GrRxldv1VGzwYK6KNj/giphy.gif" width="20"> My Stats :
