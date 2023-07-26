@@ -14,7 +14,7 @@ I'm Studying at Rangsit university <img src="https://media.giphy.com/media/WUlpl
 
 <a href="https://www.github.com/silentsupt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/silentsupt?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<img style="font-size: 5px" src="https://komarev.com/ghpvc/?username=silentsupt&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=silentsupt&style=flat-square&color=blue" alt=""/>
 ### Skills
 
 
