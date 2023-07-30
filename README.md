@@ -7,7 +7,7 @@ I'm Studying at Rangsit university <img src="https://media.giphy.com/media/WUlpl
 
 - <img src="https://media.giphy.com/media/UTjmeapJahb8asynPo/giphy.gif" width="40"> Exploring Technical Content Writing.
 
-- <img src="https://media.giphy.com/media/GrRxldv1VGzwYK6KNj/giphy.gif" width="40"> In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- <img src="https://media.giphy.com/media/GrRxldv1VGzwYK6KNj/giphy.gif" width="40"> In my free time, I solve problems on GeeksforGeeks and read tech articles. 
 
 * <img src="https://thumbs.gfycat.com/AnxiousSociableGazelle-max-1mb.gif" width="34">  If You have any Question [Here!](https://linkbio.co/5062013K7nPo1) my contact. 
 ------------------------------------------------------
